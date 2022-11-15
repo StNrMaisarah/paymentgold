@@ -1,5 +1,5 @@
 <resources>
-        <string name="app_name">Zakat Payment</string>
+        <string name="app_name">ZAKAT PAYMENT</string>
         <string name="get_weight">Weight of Gold in Grams (g)</string>
         <string name="get_type">Type of Gold</string>
         <string name="gold">gold</string>
